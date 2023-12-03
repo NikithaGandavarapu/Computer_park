@@ -2,7 +2,7 @@ Team Information
 solo
 name: Nikitha Gandavarapu
 ID: P925U359
-Git hub: https://github.com/Samsrithya-Shatla
+Git hub: https://github.com/NikithaGandavarapu
 
 
 #Project DEMO
