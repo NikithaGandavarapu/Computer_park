@@ -7,11 +7,7 @@ Git hub: https://github.com/NikithaGandavarapu
 
 #Project DEMO
 We have uploaded the project Demo to the get repository(with commit:Project DEMO) and youtube 
-youtube playlist link: https://www.youtube.com/playlist?list=PLPbhKvaf7letj615U4fqe1LALi0J70FtC
-
-
-#Commits 
-we have the screeshots uploaded of are commits in the repsitory (with commit: commit proof)
+youtube link: https://youtu.be/L5Rd80wqoV8
 
 
 # Computer_Park Application
