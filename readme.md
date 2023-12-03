@@ -1,7 +1,7 @@
 Team Information
-member#1
-name: samsrithya shatla
-ID: H988B763
+solo
+name: Nikitha Gandavarapu
+ID: P925U359
 Git hub: https://github.com/Samsrithya-Shatla
 
 
