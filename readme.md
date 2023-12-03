@@ -6,7 +6,7 @@ Git hub: https://github.com/NikithaGandavarapu
 
 
 #Project DEMO
-We have uploaded the project Demo to the get repository(with commit:Project DEMO) and youtube 
+I have uploaded the project Demo to the get repository(with commit:Project DEMO) and youtube 
 youtube link: https://youtu.be/L5Rd80wqoV8
 
 
